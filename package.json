@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "serve": "sillabe serve",
+    "build": "sillabe build"
+  },
+  "devDependencies": {
+    "@sillabe/cli": "latest",
+    "nunjucks": "latest"
+  }
+}
