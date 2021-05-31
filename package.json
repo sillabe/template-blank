@@ -5,6 +5,9 @@
   },
   "devDependencies": {
     "@sillabe/cli": "latest",
+    "@sillabe/filesystem-sorting-plugin": "latest",
+    "@sillabe/markdown-posts-plugin": "latest",
+    "@sillabe/private-nodes-plugin": "latest",
     "nunjucks": "latest"
   }
 }

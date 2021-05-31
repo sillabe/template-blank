@@ -1,5 +1,10 @@
 +++
 title = "Home"
-layout = "default.njk"
 +++
-Change me
+Change _me_
+
+> Here is a quote
+
+    Here is some code
+
+And here is some `inline code`
