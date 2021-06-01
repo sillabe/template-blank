@@ -4,10 +4,10 @@
     "build": "sillabe build"
   },
   "devDependencies": {
-    "@sillabe/cli": "latest",
-    "@sillabe/filesystem-sorting-plugin": "latest",
-    "@sillabe/markdown-posts-plugin": "latest",
-    "@sillabe/private-nodes-plugin": "latest",
-    "nunjucks": "latest"
+    "@sillabe/cli": "^0.4.0",
+    "@sillabe/filesystem-sorting-plugin": "^0.1.6",
+    "@sillabe/markdown-posts-plugin": "^0.1.7",
+    "@sillabe/private-nodes-plugin": "^0.1.6",
+    "nunjucks": "^3.2.3"
   }
 }
